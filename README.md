@@ -18,7 +18,7 @@ A complete **Login/Register Authentication App** built using **Jetpack Compose**
 ## 📸 Screenshots
 
 ### Login Screen
-<img src="login_screen.png" alt="Login Screen" width="250"/>
+<img src="app/login_screen.png" alt="Login Screen" width="250"/>
 
 ### Register Screen
 <img src="register_screen.png" alt="Register Screen" width="250"/>
