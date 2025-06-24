@@ -21,10 +21,10 @@ A complete **Login/Register Authentication App** built using **Jetpack Compose**
 <img src="app/login_screen.png" alt="Login Screen" width="250"/>
 
 ### Register Screen
-<img src="register_screen.png" alt="Register Screen" width="250"/>
+<img src="app/register_screen.png" alt="Register Screen" width="250"/>
 
 ### Success Screen
-<img src="success_screen.png" alt="Success Screen" width="250"/>
+<img src="app/success_screen.png" alt="Success Screen" width="250"/>
 
 ---
 
